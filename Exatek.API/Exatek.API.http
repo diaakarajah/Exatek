@@ -1,0 +1,6 @@
+@Exatek.API_HostAddress = http://localhost:5231
+
+GET {{Exatek.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
